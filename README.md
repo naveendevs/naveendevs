@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveendevs
+- 👋 Hi, I’m [Naveen](@naveendevs)
 - 👀 I’m interested in building scalable, performant and beautiful mobile and web applications.
 - 🌱 I’m currently learning computer vision using ML.
 - 💞️ I’m looking to collaborate on Computer Vision Algorithms, Data Lineage Management, and App Store CI/CD solutions.
